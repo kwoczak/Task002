@@ -13,7 +13,7 @@ Projekt demonstruje zarządzanie priorytetami wiadomości w systemie kolejek wia
 
 Skompiluj projekt za pomocą Makefile
 
-## Uruchoienie programu
+## Uruchomienie programu
 Uruchom odbiorcę:
 
 ./receiver 

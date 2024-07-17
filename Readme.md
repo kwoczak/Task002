@@ -4,16 +4,6 @@
 
 Projekt demonstruje zarządzanie priorytetami wiadomości w systemie kolejek wiadomości POSIX. Nadawca (`sender`) wysyła wiadomości z różnymi priorytetami, a odbiorca (`receiver`) odbiera je w odpowiedniej kolejności priorytetów. Odbiorca odpowiada na każdą wiadomość, podając długość otrzymanej wiadomości.
 
-## Struktura projektu
-.
-├── include/
-│ └── message_module.h
-├── src/
-│ ├── main_receiver.cpp
-│ ├── main_sender.cpp
-│ └── message_module.cpp
-└── Makefile
-
 
 ## Wymagania
 

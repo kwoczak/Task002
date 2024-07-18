@@ -1,4 +1,4 @@
-# Message Queue Priority Example
+# Message Queue Priority 
 
 ## Opis 
 
